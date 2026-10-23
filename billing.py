@@ -1,5 +1,5 @@
 
-def calculate_tax(subtotal, rate):
+def calculate_tax(subtotal):
     return subtotal * rate
 
 

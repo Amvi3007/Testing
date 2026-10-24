@@ -1,2 +1,2 @@
-def get_rate(country,year):
+def get_rate(country):
     return 0.18

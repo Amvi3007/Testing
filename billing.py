@@ -4,5 +4,5 @@ def calculate_tax(subtotal):
 
 
 def final_price(subtotal, rate):
-    tax = calculate_tax(subtotal)
+    tax = calculate_tax(subtotal,rate)
     return subtotal + tax

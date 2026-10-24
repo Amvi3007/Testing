@@ -1,6 +1,6 @@
 
 def calculate_tax():
-    return subtotal - rate
+    return subtotal + rate
 
 
 def final_price(subtotal, rate):
